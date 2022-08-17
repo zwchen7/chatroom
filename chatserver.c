@@ -10,7 +10,7 @@
 #include <arpa/inet.h>
 
 #define MAX 80
-#define BUFFER 1024
+#define BUFFER 1024  
 
 static pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 
